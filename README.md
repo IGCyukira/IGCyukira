@@ -1,26 +1,3 @@
----
-title: "STORY"
-adventure:
-  name: "凯留公主喵的奇幻冒险"
-  leader: "凯留公主喵"
-  team:
-    - name: "可可萝"
-      role: "奶妈"
-    - name: "兔子精灵"
-      role: "开心果"
-    - name: "狐狸术士"
-      role: "术士"
-  goal: "到达星辉之塔的顶端，获取无敌的魔法力量喵！"
-  path:
-    - step: "穿越迷雾森林"
-      challenge: "幻象与陷阱"
-    - step: "渡过烈火峡谷"
-      challenge: "炙热的岩浆与熔岩怪物"
-    - step: "登上星辉之塔"
-      challenge: "面对内心的试炼"
-  success_message: "哼，这点考验根本难不倒本公主！我可是最强的猫女王喵~"
----
-
 以下是一个简单的Markdown示例：
 
 
