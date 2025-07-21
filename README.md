@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WentUrc/.github/refs/heads/main/img/IMG_20250716_235058.png" alt="logo" width="50%">
+  <img src="https://raw.githubusercontent.com/WentUrc/.github/refs/heads/main/img/%E5%9C%86%E8%A7%92-IMG_20250716_235058.png" alt="logo" width="50%">
   
   <h1>🌙 组织代号：<strong>深渊回声</strong> 🌙</h1>
   
