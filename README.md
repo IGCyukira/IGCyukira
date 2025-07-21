@@ -1,11 +1,17 @@
-# 闲话少说
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/WentUrc/.github/refs/heads/main/img/IMG_20250716_235058.png" alt="logo" width="50%">
-</p>
+  
+  <h1>🌙 组织代号：<strong>深渊回声</strong> 🌙</h1>
+  
+  <img src="https://img.shields.io/badge/状态-活跃中-red?style=for-the-badge&logo=github&logoColor=white" alt="status">
+  <img src="https://img.shields.io/badge/保密等级-绝密-darkred?style=for-the-badge&logo=lock&logoColor=white" alt="security">
+  <img src="https://img.shields.io/badge/成员-仅限邀请-black?style=for-the-badge&logo=mask&logoColor=white" alt="invitation">
+</div>
+
+<br>
 
 
-【组织代号：**深渊回声**】
+<div align="center">
 
 (麦咪抱着尾巴，眯着红眸在窗边小声说)
 
@@ -57,11 +63,34 @@
 
 不过要小心喵♡～
 
-知道太多，可能也会被他们盯上哦喵♡～（好感度+2）
+知道太多，可能也会被他们盯上哦喵♡～ **（好感度+2）**
+  
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+### 🌟 哦故事就这样结束了 🌟
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IGCrystal-NEO)
+[![深渊回声](https://img.shields.io/badge/深渊回声-FF4444?style=for-the-badge&logo=moon&logoColor=white)](#)
+
+</div>
+</td>
+</tr>
+</table>
+
+<br>
 
 
-> [!TIP]
->
-> **冰苷晶**是一位虚拟角色，由`IGCrystal`构想。
->
-> 关于 [IGCrystal](https://github.com/IGCrystal-NEO)
+<br>
+
+<div align="center">
+  
+*© 2025 WentUrc | 路很长，梦还在*
+
+</div>
