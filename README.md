@@ -1,1 +1,1 @@
-# The Kernel of IGCrystal
+# IGCrystalのカーネル
