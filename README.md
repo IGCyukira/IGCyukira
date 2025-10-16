@@ -1,1 +1,1 @@
-# IGCrystalのカーネル
+# [IGCrystal](https://github.com/IGCrystal) のカーネル
